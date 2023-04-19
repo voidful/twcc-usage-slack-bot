@@ -1,0 +1,4 @@
+slack-sdk
+slack-bolt
+schedule
+requests
