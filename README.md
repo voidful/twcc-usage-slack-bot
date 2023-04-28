@@ -6,7 +6,7 @@
 
 1. 取得 TWCC API Key：請參考 [TWCC 文件：如何取得 API Key](https://docs.twcc.ai/docs/user-guides/twcc/general/api-keys/)。
 
-2. 取得專案 ID：請參考 [TWCC 文件：取得專案詳細資訊](https://docs.twcc.ai/docs/api/CCS/get-project-detail)。
+2. 取得專案 ID：請參考 [TWCC 文件：取得專案詳細資訊](https://docs.twcc.ai/docs/api/CCS/list-projects)。
 
 3. 創建 Slack Bot 並取得 Token：
    - 前往 <https://api.slack.com/apps> 並創建一個新的應用程式。
